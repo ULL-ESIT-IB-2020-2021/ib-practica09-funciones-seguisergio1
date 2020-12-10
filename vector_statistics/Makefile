@@ -3,7 +3,7 @@
 # Grado en Ingeniería Informática
 # Informática Básica
 #
-# @author Lihao Zhu
+# @author Sergio Nicolas 
 # @date 9 dec 2020
 
 CXX = g++						             # The C++ compiler command
